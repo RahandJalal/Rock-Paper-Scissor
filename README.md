@@ -24,4 +24,4 @@ A classic Rock-Paper-Scissors web game where players compete against a randomize
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RahandJalal/rock-paper-scissors.git
+   git clone https://github.com/Rahandjalal/rock-paper-scissor.git
